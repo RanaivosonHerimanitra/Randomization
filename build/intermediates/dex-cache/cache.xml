@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/herimanitra/AndroidStudioProjects/RandomizationMalinea/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/home/herimanitra/AndroidStudioProjects/RandomizationMalinea/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.1.1_cc06c5992f0f63677ffc9639590677311f4ec39b/classes.dex" />
+    </item>
+    <item
+        jar="/home/herimanitra/AndroidStudioProjects/RandomizationMalinea/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/home/herimanitra/AndroidStudioProjects/RandomizationMalinea/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.1.1_86006b20f5bdb82398ba6d66dd62e1ad341ea433/classes.dex" />
+    </item>
+    <item
+        jar="/home/herimanitra/AndroidStudioProjects/RandomizationMalinea/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="/home/herimanitra/AndroidStudioProjects/RandomizationMalinea/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.1.1_42d40549f1ac901d5075513e1eb2bac127f6f4d5/classes.dex" />
+    </item>
+    <item
+        jar="/home/herimanitra/AndroidStudioProjects/RandomizationMalinea/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="172c5e9c524d8a776d647150292d1615209f5868">
+        <dex dex="/home/herimanitra/AndroidStudioProjects/RandomizationMalinea/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_c1c8721d16bd3c221442d91ba45b80471c39567f/classes.dex" />
+    </item>
+    <item
+        jar="/home/herimanitra/AndroidStudioProjects/RandomizationMalinea/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="26dd97a2e7702e866d2e08c3b0c8206fa240ba51">
+        <dex dex="/home/herimanitra/AndroidStudioProjects/RandomizationMalinea/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_3a10988e13daeed866d21fe6c6a409edf587e74a/classes.dex" />
+    </item>
+    <item
+        jar="/home/herimanitra/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/23.1.1/support-annotations-23.1.1.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="/home/herimanitra/AndroidStudioProjects/RandomizationMalinea/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.1.1_af50277d36d8815a133e001fd98b1b8dfd4f3ec0/classes.dex" />
+    </item>
+
+</items>
